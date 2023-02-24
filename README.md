@@ -11,7 +11,7 @@ The Todo app uses the following technologies :
 * bcryptjs
 * passport
 
-* To install nodemodules run command - npm install 
+To install nodemodules run command - npm install 
 * To start app run command - npm start
 
 ![image](https://user-images.githubusercontent.com/93991971/221120670-3905b066-40b7-4775-ab7c-bf8870586d1c.png)
