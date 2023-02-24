@@ -1,5 +1,5 @@
-#Todo App
-The ToDo app uses the following technologies and javascript libraries:
+Todo App
+The Todo app uses the following technologies :
 * MongoDB
 * Express.js
 * Node.js
